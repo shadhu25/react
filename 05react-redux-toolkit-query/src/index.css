@@ -1,0 +1,20 @@
+.todo-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.todo-row {
+  background-color: cadetblue;
+  border: 1px solid #232323;
+  width: 100%;
+  margin-inline: auto;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+body{
+  background-color: #212121;
+}
